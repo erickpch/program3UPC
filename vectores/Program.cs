@@ -26,6 +26,8 @@ class Program
         ImprimirVector(palabras);
     }
 
+    // esta es otra modificación de una rama alterna
+    // se realizo otro cambio
     static void ImprimirVector<T>(T[] vector)
     {
         foreach (T elemento in vector)
