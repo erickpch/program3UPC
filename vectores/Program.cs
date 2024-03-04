@@ -25,6 +25,7 @@ class Program
         Console.WriteLine("\nVector de palabras:");
         ImprimirVector(palabras);
     }
+    //cambie de idea e hice nuevos cambios de nuevo
 
     // esta es otra modificación de una rama alterna
     // se realizo otro cambio
