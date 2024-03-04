@@ -22,11 +22,16 @@ class Program
         ImprimirVector(letras);
 
         // Imprimir vector de palabras
+
         Console.WriteLine("\nVector con palabras:");
-        ImprimirVector(palabras);
+
+
+        
     }
     //cambie de idea e hice nuevos cambios de nuevo
 
+    // esta es otra modificación de una rama alterna
+    // se realizo otro cambio
     static void ImprimirVector<T>(T[] vector)
     {
         foreach (T elemento in vector)
