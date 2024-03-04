@@ -22,8 +22,10 @@ class Program
         ImprimirVector(letras);
 
         // Imprimir vector de palabras
-        Console.WriteLine("\nVector de palabras:");
+        Console.WriteLine("\nVector de multiples palabras:");
         ImprimirVector(palabras);
+
+        
     }
     //cambie de idea e hice nuevos cambios de nuevo
 
