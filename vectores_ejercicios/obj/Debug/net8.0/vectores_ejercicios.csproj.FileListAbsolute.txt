@@ -1,0 +1,15 @@
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.AssemblyInfoInputs.cache
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.AssemblyInfo.cs
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.csproj.CoreCompileInputs.cache
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.sourcelink.json
+I:\Program3\vectores_ejercicios\bin\Debug\net8.0\vectores_ejercicios.exe
+I:\Program3\vectores_ejercicios\bin\Debug\net8.0\vectores_ejercicios.deps.json
+I:\Program3\vectores_ejercicios\bin\Debug\net8.0\vectores_ejercicios.runtimeconfig.json
+I:\Program3\vectores_ejercicios\bin\Debug\net8.0\vectores_ejercicios.dll
+I:\Program3\vectores_ejercicios\bin\Debug\net8.0\vectores_ejercicios.pdb
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.dll
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\refint\vectores_ejercicios.dll
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.pdb
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\vectores_ejercicios.genruntimeconfig.cache
+I:\Program3\vectores_ejercicios\obj\Debug\net8.0\ref\vectores_ejercicios.dll

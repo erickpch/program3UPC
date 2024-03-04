@@ -12,3 +12,4 @@ I:\Program3\vectores\obj\Debug\net8.0\refint\vectores.dll
 I:\Program3\vectores\obj\Debug\net8.0\vectores.pdb
 I:\Program3\vectores\obj\Debug\net8.0\vectores.genruntimeconfig.cache
 I:\Program3\vectores\obj\Debug\net8.0\ref\vectores.dll
+I:\Program3\vectores\obj\Debug\net8.0\vectores.sourcelink.json
