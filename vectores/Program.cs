@@ -25,7 +25,7 @@ class Program
         Console.WriteLine("\nVector de palabras:");
         ImprimirVector(palabras);
     }
-    //cambios hechos por erick
+    //cambie de idea e hice nuevos cambios
 
     static void ImprimirVector<T>(T[] vector)
     {
