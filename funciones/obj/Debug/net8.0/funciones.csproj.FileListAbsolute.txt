@@ -1,0 +1,15 @@
+I:\Program3\funciones\bin\Debug\net8.0\funciones.exe
+I:\Program3\funciones\bin\Debug\net8.0\funciones.deps.json
+I:\Program3\funciones\bin\Debug\net8.0\funciones.runtimeconfig.json
+I:\Program3\funciones\bin\Debug\net8.0\funciones.dll
+I:\Program3\funciones\bin\Debug\net8.0\funciones.pdb
+I:\Program3\funciones\obj\Debug\net8.0\funciones.GeneratedMSBuildEditorConfig.editorconfig
+I:\Program3\funciones\obj\Debug\net8.0\funciones.AssemblyInfoInputs.cache
+I:\Program3\funciones\obj\Debug\net8.0\funciones.AssemblyInfo.cs
+I:\Program3\funciones\obj\Debug\net8.0\funciones.csproj.CoreCompileInputs.cache
+I:\Program3\funciones\obj\Debug\net8.0\funciones.sourcelink.json
+I:\Program3\funciones\obj\Debug\net8.0\funciones.dll
+I:\Program3\funciones\obj\Debug\net8.0\refint\funciones.dll
+I:\Program3\funciones\obj\Debug\net8.0\funciones.pdb
+I:\Program3\funciones\obj\Debug\net8.0\funciones.genruntimeconfig.cache
+I:\Program3\funciones\obj\Debug\net8.0\ref\funciones.dll
